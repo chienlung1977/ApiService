@@ -1,0 +1,27 @@
+{
+  "name": "ApiService",
+  "version": "0.1.0",
+  "description": "ApiService",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "lcl",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+	  
+
+	  "dependencies": {
+		    "express": "~4.0.0",
+		    "jade": "*",
+		    "basic-auth":"1.0.3",
+		    "passport":"0.3.2",
+		    "passport-http":"0.3.0"
+		  }
+	  
+}
